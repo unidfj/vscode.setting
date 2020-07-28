@@ -1,0 +1,117 @@
+{
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.forceUpload": false,
+    "window.zoomLevel": 0,
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.fontSize": 19,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 300,
+    "workbench.colorCustomizations": {
+      "activityBarBadge.background": "#C6FF00",
+      "activityBar.activeBorder": "#C6FF00",
+      "list.activeSelectionForeground": "#C6FF00",
+      "list.inactiveSelectionForeground": "#C6FF00",
+      "list.highlightForeground": "#C6FF00",
+      "scrollbarSlider.activeBackground": "#C6FF0050",
+      "editorSuggestWidget.highlightForeground": "#C6FF00",
+      "textLink.foreground": "#C6FF00",
+      "progressBar.background": "#C6FF00",
+      "pickerGroup.foreground": "#C6FF00",
+      "tab.activeBorder": "#C6FF00",
+      "notificationLink.foreground": "#C6FF00",
+      "editorWidget.resizeBorder": "#C6FF00",
+      "editorWidget.border": "#C6FF00",
+      "settings.modifiedItemIndicator": "#C6FF00",
+      "settings.headerForeground": "#C6FF00",
+      "panelTitle.activeBorder": "#C6FF00",
+      "breadcrumb.activeSelectionForeground": "#C6FF00",
+      "menu.selectionForeground": "#C6FF00",
+      "menubar.selectionForeground": "#C6FF00",
+      "editor.findMatchBorder": "#C6FF00",
+      "selection.background": "#C6FF0040"
+    },
+    "workbench.preferredDarkColorTheme": "SynthWave '84",
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "sync.gist": "8683a2bba50eb8b8c8ae38bd301f8370",
+    "workbench.colorTheme": "SynthWave '84",
+    "[vue]": {
+      "editor.defaultFormatter": "octref.vetur"
+    },
+    "files.associations": {
+      "*.cjson": "jsonc",
+      "*.wxss": "css",
+      "*.wxs": "javascript"
+    },
+    "emmet.includeLanguages": {
+      "wxml": "html"
+    },
+    "prettier.printWidth": 200,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "vetur.validation.template": false,
+    "prettier.bracketSpacing": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.endOfLine": "auto",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "vetur.format.options.tabSize": 4,
+    "vetur.format.options.useTabs": true,
+    "vetur.format.defaultFormatterOptions": {
+      "wrap_attributes": "auto",
+      "prettyhtml": {
+        "printWidth": 200, // No line exceeds 100 characters
+        "singleQuote": false // Prefer double quotes over single quotes
+      },
+      "prettier": {
+        "semi": false, //不加分号
+        "singleQuote": true //用单引号
+      }
+    },
+  
+    "prettier.arrowParens": "avoid",
+    "liveServer.settings.port": 0,
+    "liveServer.settings.multiRootWorkspaceName": "",
+    "vetur.completion.scaffoldSnippetSources": {},
+    "liveServer.settings.https": {
+    
+    },
+    "material-icon-theme.folders.color": "#00cc6a",
+    "explorer.confirmDelete": false,
+    "[less]": {
+      "editor.defaultFormatter": "michelemelluso.code-beautifier"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "michelemelluso.code-beautifier"
+    },
+    "prettier.jsxBracketSameLine": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "prettier.useEditorConfig": false,
+    "prettier.requirePragma": true,
+    "prettier.requireConfig": true,
+    "powermode.enabled":true,//启动插件
+    "powermode.enableShake": false,//桌面是否抖动
+    "powermode.presets": "flames",//特效样式 fireworks flames magic clippy 
+    "powermode.comboTimeout":3,      // 时间间隔
+    "powermode.explosionDuration": 200,
+    "materialTheme.accent": "Acid Lime",
+    "editor.renderWhitespace": "none",
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.links": false,
+    "editor.tokenColorCustomizations": null,
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "gitlens.blame.dateFormat": "", // 持续时间（如果是0，将一直持续）
+  }
+  
